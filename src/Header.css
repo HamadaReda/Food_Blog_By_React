@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 25px;
+  padding: 20px;
+}
+
+.header #bar-btn {
+  cursor: pointer;
+}
